@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-moises alejandro
-=======
-hola Moy 
-Soy Carlos
-=
->>>>>>> abce655eabce1ef4f8fdb759cf499858cdf06df3
+moises modifico
